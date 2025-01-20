@@ -1,0 +1,4 @@
+pandas
+playwright
+nest_asyncio
+openpyxl
